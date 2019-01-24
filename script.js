@@ -14,7 +14,7 @@ function removeColor(el){
 }
 
 function showTrophy(el){
-	el.src = "images/lombardi_trophy.jpg";
+	el.src = "images/lombardi_trophy.png";
 	document.getElementById("middle-col").src =  "images/lombardi_trophy.png";
 	document.getElementById("pats").src =  "images/lombardi_trophy.png";
 }
